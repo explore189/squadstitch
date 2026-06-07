@@ -1,0 +1,9 @@
+<svg viewBox="0 0 420 460" xmlns="http://www.w3.org/2000/svg">
+<defs><linearGradient id="g" x1="0" x2="1"><stop stop-color="#246BFD"/><stop offset="1" stop-color="#FF8A1D"/></linearGradient></defs>
+<ellipse cx="210" cy="420" rx="145" ry="24" fill="#000" opacity=".22"/>
+<path d="M92 82L158 48H262L328 82L292 160L260 144V400H160V144L128 160L92 82Z" fill="url(#g)" stroke="#fff" stroke-width="10" stroke-linejoin="round"/>
+<path d="M158 48C170 82 250 82 262 48" stroke="#fff" stroke-width="8" fill="none"/>
+<path d="M160 176C210 150 244 156 292 188V400H160V176Z" fill="#07142F" opacity=".34"/>
+<text x="210" y="226" text-anchor="middle" font-family="Inter,Arial" font-size="32" fill="white" font-weight="800">SQUAD</text>
+<text x="210" y="306" text-anchor="middle" font-family="Inter,Arial" font-size="88" fill="white" font-weight="900">23</text>
+</svg>
